@@ -1,0 +1,58 @@
+
+* {
+  box-sizing:border-box;
+}
+
+body {
+  font-family: "Arimo", serif;
+  color:#000000;
+}
+
+.header {
+  background-color:#1f192f;
+  padding:30px;
+  text-align:center;
+  color: #f0f1f1;
+  margin:0px;
+}
+
+.links {
+  background-color:#65b8a6;
+  overflow:hidden;
+}
+
+.links a {
+  float:left;
+  display: block;
+  color:#000000;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background-color:#504e4e;
+  color:#000000;
+}
+
+.main {
+  margin-top:20px;
+  background-color:#f3f1f1;
+  padding:20px;
+}
+
+p {
+  text-align:justify;
+}
+
+.idkhome{
+  border-style:none;
+  padding:20px;
+  margin-top:20px;
+}
+
+.idk {
+  border-style:none;
+  padding:20px;
+  margin-bottom:20px;
+}
